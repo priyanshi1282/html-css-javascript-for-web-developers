@@ -8,4 +8,7 @@ Solution Link - https://priyanshi1282.github.io/html-css-javascript-for-web-deve
 ### Module4 -
 Question Link - https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md <br>
 Solution Link - https://priyanshi1282.github.io/html-css-javascript-for-web-developers/module4-solution/
+### Module5 -
+Question Link - https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md <br>
+Solution Link - https://priyanshi1282.github.io/html-css-javascript-for-web-developers/module5-solution/
 
